@@ -1,6 +1,6 @@
 ## LOGS Analysis Project
 
-###Introduction
+### Introduction
 This is a project where your work is to analyse data with SQL queris from a huge database of a newspaper site to answer 3 question.
 >1. What are the most popular three articles of all time?
 >2. Who are the most popular article authors of all time? 
